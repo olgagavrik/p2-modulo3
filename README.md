@@ -6,3 +6,4 @@
 4.	Con tu repositorio local final crear otro repositorio público con nombre p2-modulo3 
 5.	Copiar el enlace de tu repositorio y pegarlo en el fichero respuestas_tunombre.docx
 
+OK
